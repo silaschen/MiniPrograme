@@ -1,0 +1,18 @@
+
+V1.04  2017-06-05 杨林
+*修改轮播图数据表 后台管理方法及模版 新增 WeiXin.class.php 微信支付成功通知回复
+*更新WeiXin.class.php 对自定义APPID的支持 可以替换升级
+*更新CommonAction 增加短信发送调用阿里云消息服务方法 增加阿里云MNS类库 ORG.MNS
+
+V1.03  2017-05-20 杨林
+*修改 Index/demo 默认前端样式
+
+V1.02  2017-05-09 杨林
+*修改 CommonAction/SetWxPay 优化代码
+*修改 Public/com/area.js 增加 郑州郑东新区
+*增加 数据表 sys_location 增加410101 郑东新区
+
+V1.01  2017-05-08 杨林
+*修改 Public/com/area.js 使用三级地区简化
+
+
